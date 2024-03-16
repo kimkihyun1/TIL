@@ -28,4 +28,4 @@ def solution(number, limit, power):
 number = 5
 limit = 3
 power = 2
-print(solution(number, limit, power)) # 10
+print(solution(number, limit, power)) #  10
